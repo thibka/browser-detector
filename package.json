@@ -1,5 +1,5 @@
 {
-  "name": "browser-detector",
+  "name": "@thibka/browser-detector",
   "version": "1.0.0",
   "description": "Simple JS browser detection",
   "main": "index.js",
